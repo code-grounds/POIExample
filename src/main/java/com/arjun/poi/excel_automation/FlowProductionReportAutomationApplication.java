@@ -12,7 +12,6 @@ import java.io.IOException;
 
 @SpringBootApplication
 @Slf4j
-@ComponentScan("com.ad2pro.spectra")
 @EnableJpaAuditing
 
 public class FlowProductionReportAutomationApplication {
